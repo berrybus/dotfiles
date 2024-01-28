@@ -1,0 +1,10 @@
+theme = "nightfox"
+
+[editor]
+mouse = true
+
+[editor.cursor-shape]
+insert = "bar"
+
+[editor.soft-wrap]
+enable = true
